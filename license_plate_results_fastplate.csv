@@ -1,0 +1,101 @@
+filename,country,actual_plate,predicted_plate,confidence,correct,car_bbox,plate_bbox,crop_path
+830503.jpg,Bahrain,399993,,0.0,False,"[60, 226, 1370, 808]","[137, 321, 359, 414]",plate_crops_fastplate\830503_plate_0.png
+830510.jpg,Bahrain,257345,,0.0,False,"[130, 172, 1371, 833]","[185, 344, 469, 446]",plate_crops_fastplate\830510_plate_1.png
+831502.jpg,Bahrain,2979,,0.0,False,"[8, 167, 1403, 828]","[1022, 545, 1195, 618]",plate_crops_fastplate\831502_plate_2.png
+1340559.jpg,Bahrain,287938,,0.0,False,"[2, 164, 1398, 851]","[1300, 409, 1385, 511]",plate_crops_fastplate\1340559_plate_3.png
+769019.jpg,Bahrain,138998,,0.0,False,"[226, 168, 1225, 879]","[433, 478, 714, 559]",plate_crops_fastplate\769019_plate_4.png
+769042.jpg,Bahrain,28328,,0.0,False,"[132, 179, 1250, 864]","[671, 446, 862, 513]",plate_crops_fastplate\769042_plate_5.png
+769069.jpg,Bahrain,106228,,0.0,False,"[86, 82, 1397, 879]",,
+1232502.jpg,Bahrain,329853,,0.0,False,"[136, 108, 1335, 829]","[196, 495, 388, 620]",plate_crops_fastplate\1232502_plate_7.png
+769883.jpg,Bahrain,83023,,0.0,False,"[45, 199, 1395, 805]","[1156, 384, 1262, 486]",plate_crops_fastplate\769883_plate_8.png
+769901.jpg,Bahrain,300590,,0.0,False,"[111, 103, 1354, 811]","[325, 325, 527, 461]",plate_crops_fastplate\769901_plate_9.png
+769923.jpg,Bahrain,359502,,0.0,False,"[95, 102, 1270, 869]","[754, 515, 1013, 598]",plate_crops_fastplate\769923_plate_10.png
+1003919.jpg,Bahrain,653037,,0.0,False,"[28, 129, 1440, 890]","[1041, 424, 1232, 563]",plate_crops_fastplate\1003919_plate_11.png
+1003936.jpg,Bahrain,165118,,0.0,False,"[190, 96, 1236, 907]","[422, 544, 628, 667]",plate_crops_fastplate\1003936_plate_12.png
+1003983.jpg,Bahrain,51968,,0.0,False,"[69, 7, 1282, 867]","[476, 569, 661, 684]",plate_crops_fastplate\1003983_plate_13.png
+1004012.jpg,Bahrain,190627,,0.0,False,"[35, 149, 1390, 808]","[250, 455, 423, 564]",plate_crops_fastplate\1004012_plate_14.png
+1004028.jpg,Bahrain,382899,,0.0,False,"[202, 77, 1254, 930]","[486, 541, 767, 646]",plate_crops_fastplate\1004028_plate_15.png
+1004035.jpg,Bahrain,73049,,0.0,False,"[59, 127, 1366, 807]","[214, 483, 477, 568]",plate_crops_fastplate\1004035_plate_16.png
+1004054.jpg,Bahrain,32789,,0.0,False,"[0, 176, 1404, 830]","[191, 406, 324, 469]",plate_crops_fastplate\1004054_plate_17.png
+1004132.jpg,Bahrain,275730,,0.0,False,"[18, 340, 918, 766]","[742, 256, 829, 331]",plate_crops_fastplate\1004132_plate_18.png
+1004190.jpg,Bahrain,301125,,0.0,False,"[2, 267, 1414, 900]","[1067, 435, 1239, 524]",plate_crops_fastplate\1004190_plate_19.png
+1004217.jpg,Bahrain,582034,,0.0,False,"[5, 211, 1416, 822]","[131, 340, 252, 425]",plate_crops_fastplate\1004217_plate_20.png
+1004391.jpg,Bahrain,24109,,0.0,False,"[139, 90, 1301, 924]","[750, 473, 919, 595]",plate_crops_fastplate\1004391_plate_21.png
+1004412.jpg,Bahrain,306707,,0.0,False,"[19, 140, 1409, 820]","[1020, 283, 1188, 436]",plate_crops_fastplate\1004412_plate_22.png
+1004429.jpg,Bahrain,82728,,0.0,False,"[109, 96, 1307, 761]","[911, 500, 1051, 604]",plate_crops_fastplate\1004429_plate_23.png
+1004437.jpg,Bahrain,137470,,0.0,False,"[56, 114, 1364, 807]","[255, 349, 400, 466]",plate_crops_fastplate\1004437_plate_24.png
+886621.jpg,Ireland,93-LD-1231,,0.0,False,"[40, 132, 928, 536]","[90, 215, 158, 302]",plate_crops_fastplate\886621_plate_25.png
+1004610.jpg,Ireland,94-TN-2243,,0.0,False,"[3, 0, 1425, 914]","[1013, 619, 1319, 836]",plate_crops_fastplate\1004610_plate_26.png
+1004647.jpg,Ireland,99-D-8401,,0.0,False,"[6, 5, 1412, 907]","[164, 417, 458, 576]",plate_crops_fastplate\1004647_plate_27.png
+1004671.jpg,Ireland,93-D-120178,,0.0,False,"[144, 0, 1307, 932]","[799, 720, 1046, 852]",plate_crops_fastplate\1004671_plate_28.png
+895907.jpg,Ireland,AS-7284,,0.0,False,"[265, 3, 1831, 1282]","[110, 1089, 158, 1122]",plate_crops_fastplate\895907_plate_29.png
+1120689.jpg,Ireland,141-D-35898,,0.0,False,"[137, 21, 1283, 913]","[730, 663, 1024, 774]",plate_crops_fastplate\1120689_plate_30.png
+996209.jpg,Ireland,87-C-2885,,0.0,False,"[117, 0, 798, 634]","[217, 518, 486, 622]",plate_crops_fastplate\996209_plate_31.png
+1769921.jpg,Ireland,ZV 45288,,0.0,False,"[4, 11, 1424, 927]","[970, 667, 1097, 746]",plate_crops_fastplate\1769921_plate_32.png
+1769944.jpg,Ireland,ZV 57984,,0.0,False,"[7, 24, 1410, 915]","[1204, 654, 1317, 709]",plate_crops_fastplate\1769944_plate_33.png
+1005977.jpg,Ireland,07-D-40426,,0.0,False,"[4, 0, 1425, 933]","[918, 626, 1313, 851]",plate_crops_fastplate\1005977_plate_34.png
+1005994.jpg,Ireland,00-CN-3394,,0.0,False,"[142, 8, 1315, 904]","[111, 694, 409, 894]",plate_crops_fastplate\1005994_plate_35.png
+1006025.jpg,Ireland,04-W-415,,0.0,False,"[4, 0, 1440, 917]","[325, 741, 700, 868]",plate_crops_fastplate\1006025_plate_36.png
+1059610.jpg,Ireland,06-G-12439,,0.0,False,"[68, 0, 1362, 915]","[974, 652, 1179, 853]",plate_crops_fastplate\1059610_plate_37.png
+1029572.jpg,Ireland,91-G-6790,,0.0,False,"[18, 55, 1432, 861]","[1087, 575, 1272, 674]",plate_crops_fastplate\1029572_plate_38.png
+1029650.jpg,Ireland,231-D-45186,,0.0,False,"[132, 150, 1350, 881]","[157, 393, 387, 472]",plate_crops_fastplate\1029650_plate_39.png
+1029652.jpg,Ireland,232-D-17482,,0.0,False,"[17, 0, 1438, 919]","[71, 693, 367, 833]",plate_crops_fastplate\1029652_plate_40.png
+957516.jpg,Ireland,02-CE-5694,,0.0,False,"[235, 148, 1171, 863]","[723, 456, 888, 578]",plate_crops_fastplate\957516_plate_41.png
+1059644.jpg,Ireland,161-L-2663,,0.0,False,"[106, 12, 1351, 925]","[70, 628, 367, 834]",plate_crops_fastplate\1059644_plate_42.png
+1059700.jpg,Ireland,241-D-24258,,0.0,False,"[1, 0, 1439, 927]","[96, 611, 391, 756]",plate_crops_fastplate\1059700_plate_43.png
+1059723.jpg,Ireland,172-G-2064,,0.0,False,"[49, 10, 1423, 929]","[72, 420, 342, 550]",plate_crops_fastplate\1059723_plate_44.png
+1059740.jpg,Ireland,92-W-7010,,0.0,False,"[27, 1, 1393, 918]","[128, 665, 554, 859]",plate_crops_fastplate\1059740_plate_45.png
+1183637.jpg,Ireland,04-RN-2211,,0.0,False,"[75, 92, 921, 574]","[54, 224, 130, 296]",plate_crops_fastplate\1183637_plate_46.png
+1030425.jpg,Ireland,91-WH-673,,0.0,False,"[57, 1, 1367, 913]","[245, 510, 481, 670]",plate_crops_fastplate\1030425_plate_47.png
+1030465.jpg,Ireland,91-G-16864,,0.0,False,"[39, 0, 1398, 929]","[167, 693, 462, 922]",plate_crops_fastplate\1030465_plate_48.png
+1007378.jpg,Ireland,97-D-25019,,0.0,False,"[54, 0, 1402, 927]","[89, 669, 450, 909]",plate_crops_fastplate\1007378_plate_49.png
+996307.jpg,Norway,LH 48940,,0.0,False,"[134, 50, 1323, 921]","[872, 564, 1068, 638]",plate_crops_fastplate\996307_plate_50.png
+1030412.jpg,Norway,EE 82996,,0.0,False,"[89, 190, 1389, 847]","[183, 229, 420, 325]",plate_crops_fastplate\1030412_plate_51.png
+1007306.jpg,Norway,AA 50689,,0.0,False,"[323, 0, 1295, 909]","[493, 763, 714, 851]",plate_crops_fastplate\1007306_plate_52.png
+1007317.jpg,Norway,KH 90284,,0.0,False,"[316, 2, 1250, 915]","[383, 758, 649, 859]",plate_crops_fastplate\1007317_plate_53.png
+1007331.jpg,Norway,ST 10605,,0.0,False,"[55, 137, 1357, 862]","[786, 270, 1062, 371]",plate_crops_fastplate\1007331_plate_54.png
+1007335.jpg,Norway,CF 76904,,0.0,False,"[228, 58, 1221, 928]","[461, 784, 725, 870]",plate_crops_fastplate\1007335_plate_55.png
+1007341.jpg,Norway,XV 66492,,0.0,False,"[197, 176, 1255, 912]","[148, 424, 426, 538]",plate_crops_fastplate\1007341_plate_56.png
+1007346.jpg,Norway,EE 19882,,0.0,False,"[35, 223, 1400, 797]","[28, 368, 138, 427]",plate_crops_fastplate\1007346_plate_57.png
+1007351.jpg,Norway,BR 28539,,0.0,False,"[30, 195, 1269, 924]","[820, 305, 1076, 398]",plate_crops_fastplate\1007351_plate_58.png
+1007353.jpg,Norway,AS 32347,,0.0,False,"[585, 322, 1688, 933]","[118, 385, 346, 464]",plate_crops_fastplate\1007353_plate_59.png
+1007354.jpg,Norway,RL 52544,,0.0,False,"[212, 0, 1276, 931]","[538, 732, 794, 839]",plate_crops_fastplate\1007354_plate_60.png
+1007391.jpg,Norway,EF 10279,,0.0,False,"[208, 160, 1421, 913]","[97, 221, 303, 320]",plate_crops_fastplate\1007391_plate_61.png
+1007405.jpg,Norway,AA 59357,,0.0,False,"[209, 62, 1362, 923]","[260, 417, 522, 542]",plate_crops_fastplate\1007405_plate_62.png
+1007416.jpg,Norway,BT 43288,,0.0,False,"[302, 0, 1176, 918]","[322, 686, 554, 793]",plate_crops_fastplate\1007416_plate_63.png
+972404.jpg,Norway,CH 19859,,0.0,False,"[253, 2, 1311, 877]","[529, 705, 759, 792]",plate_crops_fastplate\972404_plate_64.png
+816223.jpg,Norway,KH 68012,,0.0,False,"[180, 266, 1159, 816]","[566, 359, 764, 422]",plate_crops_fastplate\816223_plate_65.png
+972408.jpg,Norway,ZH 21710,,0.0,False,"[230, 93, 1237, 774]","[775, 515, 912, 580]",plate_crops_fastplate\972408_plate_66.png
+972429.jpg,Norway,BT 92118,,0.0,False,"[240, 0, 1308, 926]","[565, 747, 801, 840]",plate_crops_fastplate\972429_plate_67.png
+972456.jpg,Norway,DR 49108,,0.0,False,"[226, 6, 1365, 917]","[546, 732, 831, 839]",plate_crops_fastplate\972456_plate_68.png
+972486.jpg,Norway,XK 30060,,0.0,False,"[233, 3, 1238, 921]","[390, 743, 688, 868]",plate_crops_fastplate\972486_plate_69.png
+972509.jpg,Norway,HK 18110,,0.0,False,"[268, 7, 1273, 932]","[495, 696, 722, 786]",plate_crops_fastplate\972509_plate_70.png
+1161297.jpg,Norway,DL 86430,,0.0,False,"[310, 67, 1273, 853]","[152, 596, 465, 712]",plate_crops_fastplate\1161297_plate_71.png
+972655.jpg,Norway,JV 30814,,0.0,False,"[236, 0, 1272, 909]","[415, 745, 674, 865]",plate_crops_fastplate\972655_plate_72.png
+1342295.jpg,Norway,ZE 61026,,0.0,False,"[129, 0, 600, 374]","[159, 267, 319, 326]",plate_crops_fastplate\1342295_plate_73.png
+973344.jpg,Norway,LY 88480,,0.0,False,"[447, 147, 1151, 642]","[410, 291, 598, 361]",plate_crops_fastplate\973344_plate_74.png
+2071059.jpg,USA,8217NT,,0.0,False,"[255, 427, 1195, 867]","[788, 190, 848, 246]",plate_crops_fastplate\2071059_plate_75.png
+2229840.jpg,USA,RJB-F8,,0.0,False,"[90, 129, 1424, 808]","[199, 370, 381, 506]",plate_crops_fastplate\2229840_plate_76.png
+973322.jpg,USA,S71-KYD,,0.0,False,"[62, 54, 1248, 827]","[966, 558, 1097, 688]",plate_crops_fastplate\973322_plate_77.png
+1215816.jpg,USA,BG6-W544,,0.0,False,"[253, 192, 1142, 763]","[66, 396, 169, 495]",plate_crops_fastplate\1215816_plate_78.png
+1215835.jpg,USA,TMD 115,,0.0,False,"[328, 382, 1709, 1165]","[953, 300, 1100, 399]",plate_crops_fastplate\1215835_plate_79.png
+1215854.jpg,USA,VTJ 357,,0.0,False,"[435, 419, 972, 881]","[217, 157, 327, 223]",plate_crops_fastplate\1215854_plate_80.png
+889638.jpg,USA,GLQ 7432,,0.0,False,"[258, 283, 1417, 838]","[159, 281, 279, 363]",plate_crops_fastplate\889638_plate_81.png
+1215867.jpg,USA,UCZ 595,,0.0,False,"[234, 431, 1063, 785]","[108, 136, 191, 194]",plate_crops_fastplate\1215867_plate_82.png
+2071067.jpg,USA,FLL-8089,,0.0,False,"[409, 571, 1573, 1124]","[947, 193, 1027, 254]",plate_crops_fastplate\2071067_plate_83.png
+2229862.jpg,USA,RJB-7,,0.0,False,"[97, 132, 1399, 835]","[226, 328, 411, 459]",plate_crops_fastplate\2229862_plate_84.png
+1122705.jpg,USA,CALI4YA,,0.0,False,"[194, 79, 1188, 811]","[609, 303, 771, 423]",plate_crops_fastplate\1122705_plate_85.png
+1122716.jpg,USA,878-BHL,,0.0,False,"[85, 26, 1393, 834]","[298, 519, 453, 607]",plate_crops_fastplate\1122716_plate_86.png
+1122742.jpg,USA,23KPAP,,0.0,False,"[308, 388, 1617, 1122]","[855, 301, 1043, 406]",plate_crops_fastplate\1122742_plate_87.png
+1250548.jpg,USA,UBP 815,,0.0,False,"[315, 283, 1068, 799]","[444, 232, 547, 291]",plate_crops_fastplate\1250548_plate_88.png
+973865.jpg,USA,NI 5179,,0.0,False,"[82, 0, 1349, 885]","[262, 616, 428, 707]",plate_crops_fastplate\973865_plate_89.png
+973870.jpg,USA,ACK 5,,0.0,False,"[121, 0, 1274, 873]","[690, 429, 839, 522]",plate_crops_fastplate\973870_plate_90.png
+973880.jpg,USA,L29-NSN,,0.0,False,"[36, 90, 1346, 852]","[1057, 500, 1155, 583]",plate_crops_fastplate\973880_plate_91.png
+973888.jpg,USA,9KW 853,,0.0,False,"[118, 0, 1232, 873]","[372, 409, 556, 519]",plate_crops_fastplate\973888_plate_92.png
+973895.jpg,USA,NI 4225,,0.0,False,"[140, 0, 1328, 873]","[270, 646, 462, 777]",plate_crops_fastplate\973895_plate_93.png
+973932.jpg,USA,EV-3967,,0.0,False,"[59, 0, 1338, 881]","[0, 0, 270, 181]",plate_crops_fastplate\973932_plate_94.png
+973960.jpg,USA,NI 203,,0.0,False,"[214, 0, 1242, 820]","[153, 691, 360, 804]",plate_crops_fastplate\973960_plate_95.png
+1250561.jpg,USA,VSA 530,,0.0,False,"[18, 311, 1459, 1074]","[508, 389, 637, 474]",plate_crops_fastplate\1250561_plate_96.png
+1250574.jpg,USA,LPS 173,,0.0,False,"[199, 336, 1023, 722]","[136, 185, 222, 249]",plate_crops_fastplate\1250574_plate_97.png
+1250580.jpg,USA,6968QP,,0.0,False,"[351, 497, 1026, 884]","[126, 234, 219, 295]",plate_crops_fastplate\1250580_plate_98.png
+864176.jpg,USA,IVP 908,,0.0,False,"[229, 297, 1115, 906]","[295, 284, 388, 344]",plate_crops_fastplate\864176_plate_99.png
