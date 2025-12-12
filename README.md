@@ -1,7 +1,7 @@
 # Automatic License Plate Recognition (ALPR) Project
 
 **Author:** Alexandria Harp  
-**Email:** aharp@txstate.edu  
+**Email:** alh303@txstate.edu  
 **Institution:** Texas State University, Department of Computer Science  
 
 ---
